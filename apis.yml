@@ -1,0 +1,28 @@
+aid: multus-cni
+name: Multus CNI
+description: >-
+  Multus CNI is a meta-plugin for Kubernetes that enables attaching multiple network interfaces to pods.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Containers
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/multus-cni/refs/heads/main/apis.yml
+created: '2026-03-26'
+modified: '2026-03-26'
+specificationVersion: '0.19'
+apis:
+  - aid: multus-cni:multus-cni
+    name: Multus CNI
+    description: >-
+      Multus CNI is a meta-plugin for Kubernetes that enables attaching multiple network interfaces to pods.
+    humanURL: https://github.com/api-evangelist/multus-cni
+    tags:
+      - Containers
+    properties: []
+common:
+  - type: Website
+    url: https://github.com/api-evangelist/multus-cni
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
