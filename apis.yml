@@ -8,11 +8,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Containers
-  - Networking
-  - Kubernetes
   - CNI
+  - Containers
+  - Kubernetes
   - Multi-Network
+  - Networking
   - Open Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/multus-cni/refs/heads/main/apis.yml
@@ -29,11 +29,11 @@ apis:
       use cases.
     humanURL: https://github.com/k8snetworkplumbingwg/multus-cni
     tags:
-      - Containers
-      - Networking
-      - Kubernetes
       - CNI
+      - Containers
+      - Kubernetes
       - Multi-Network
+      - Networking
     properties:
       - type: Documentation
         url: https://github.com/k8snetworkplumbingwg/multus-cni/tree/master/docs
