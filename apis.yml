@@ -37,16 +37,16 @@ apis:
     properties:
       - type: Documentation
         url: https://github.com/k8snetworkplumbingwg/multus-cni/tree/master/docs
-      - type: Getting Started
+      - type: GettingStarted
         url: https://github.com/k8snetworkplumbingwg/multus-cni/blob/master/docs/quickstart.md
 common:
   - type: Website
     url: https://github.com/k8snetworkplumbingwg/multus-cni
   - type: Documentation
     url: https://github.com/k8snetworkplumbingwg/multus-cni/tree/master/docs
-  - type: Getting Started
+  - type: GettingStarted
     url: https://github.com/k8snetworkplumbingwg/multus-cni/blob/master/docs/quickstart.md
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/k8snetworkplumbingwg
 maintainers:
   - FN: Kin Lane
