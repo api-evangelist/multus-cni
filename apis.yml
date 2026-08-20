@@ -25,6 +25,13 @@ tags:
   - Kubernetes
   - Multi-Network
   - Networking
+  - Open-Source
+tags_raw:
+  - CNI
+  - Containers
+  - Kubernetes
+  - Multi-Network
+  - Networking
   - Open Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/multus-cni/refs/heads/main/apis.yml
