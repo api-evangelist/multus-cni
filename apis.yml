@@ -71,6 +71,12 @@ apis:
       - type: GettingStarted
         url: https://github.com/k8snetworkplumbingwg/multus-cni/blob/master/docs/quickstart.md
 common:
+  - type: Plans
+    url: plans/multus-cni-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/multus-cni-rate-limits.yml
+  - type: FinOps
+    url: finops/multus-cni-finops.yml
   - type: Website
     url: https://github.com/k8snetworkplumbingwg/multus-cni
   - type: Documentation
